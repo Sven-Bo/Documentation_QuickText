@@ -2,7 +2,9 @@
 
 [QuickText](https://pythonandvba.com/quicktext) is an Excel tool designed for sending bulk SMS messages using your existing phone plan and number. No coding is required, and the setup is straightforward. It’s a simple, user-friendly solution that allows you to manage your SMS communications efficiently right from Excel.
 
-
+{% embed url="https://iframe.mediadelivery.net/play/289332/5b808145-1e63-4832-a018-72354d8a70da" %}
+Welcome to the docs
+{% endembed %}
 
 ### Jump right in
 
