@@ -38,7 +38,7 @@
 ## ⁉️ FAQ
 
 * [Can I also send MMS messages?](faq/can-i-also-send-mms-messages.md)
-* [How much dies sending SMS cost?](faq/how-much-dies-sending-sms-cost.md)
+* [How much doess sending SMS cost?](faq/how-much-doess-sending-sms-cost.md)
 
 ***
 

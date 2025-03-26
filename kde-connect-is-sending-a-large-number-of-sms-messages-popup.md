@@ -1,6 +1,6 @@
 # "KDE Connect is sending a large number of SMS messages" Popup
 
-<div align="left"><figure><img src=".gitbook/assets/image.png" alt="" width="456"><figcaption><p>Popup - KDE Connect is sending a large number of SMS messages</p></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (2).png" alt="" width="456"><figcaption><p>Popup - KDE Connect is sending a large number of SMS messages</p></figcaption></figure></div>
 
 ### **What this message means**
 
@@ -23,5 +23,5 @@ I recommend:
 
 You can set both in the **Settings** tab (see screenshot below). This helps throttle message sending to a more natural pace and may prevent this warning from appearing again.
 
-<div align="left"><figure><img src=".gitbook/assets/image (1).png" alt="" width="341"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="341"><figcaption></figcaption></figure></div>
 
