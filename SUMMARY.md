@@ -30,6 +30,10 @@
 * [The SMS is marked as sent on my phone, but the recipient does not receive it](troubleshooting/the-sms-is-marked-as-sent-on-my-phone-but-the-recipient-does-not-receive-it.md)
 * [I'm unable to click on buttons in QuickText](troubleshooting/im-unable-to-click-on-buttons-in-quicktext.md)
 
+***
+
+* [Resolve Connection Issue](resolve-connection-issue.md)
+
 ## ⁉️ FAQ
 
 * [Can I also send MMS messages?](faq/can-i-also-send-mms-messages.md)
