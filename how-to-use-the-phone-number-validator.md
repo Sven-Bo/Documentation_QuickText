@@ -1,6 +1,6 @@
 # How to use the phone number validator
 
-{% embed url="https://iframe.mediadelivery.net/play/289332/d6d7b53e-de4e-4bbe-bf7a-064d2c44573f" %}
+{% embed url="https://iframe.mediadelivery.net/play/289332/4ec70f4f-8ad1-4be0-9778-889da6d77793" %}
 Watch the tutorial video
 {% endembed %}
 
