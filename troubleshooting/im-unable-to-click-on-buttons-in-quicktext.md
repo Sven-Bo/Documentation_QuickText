@@ -16,7 +16,7 @@ If you’re unable to click on any buttons in the **QuickText Excel** file, the 
 
 When opening the file, you should be prompted to "Enable Content". Make sure to click this option. If macros are not enabled, the buttons in QuickText will not work.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### **Step 3: Manually Enabling Macros (if you didn’t receive the prompt)**
 

@@ -45,3 +45,4 @@
 * [How many SMS messages can I send? Is there a limit?](how-many-sms-messages-can-i-send-is-there-a-limit.md)
 * [Can I view or modify the VBA code?](can-i-view-or-modify-the-vba-code.md)
 * [How do I get a refund?](how-do-i-get-a-refund.md)
+* [How to cancel your subscription](how-to-cancel-your-subscription.md)
