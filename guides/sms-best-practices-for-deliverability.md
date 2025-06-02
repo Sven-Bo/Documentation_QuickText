@@ -26,7 +26,7 @@ Carriers monitor how quickly your messages go out. If it looks too fast, you’r
 **Start slow:**
 
 * Begin with 1 message every 2 minutes
-* Over time, ease into 1 per minute — but don’t push it beyond that
+* Over time, ease into 1 per minute
 
 QuickText has built-in delay settings to help with this.
 
