@@ -53,3 +53,4 @@
 * [Can I use an eSIM?](can-i-use-an-esim.md)
 * [Can I use a VoIP number like Google Voice or Grasshopper?](can-i-use-a-voip-number-like-google-voice-or-grasshopper.md)
 * [Can I view or modify the VBA code?](can-i-view-or-modify-the-vba-code.md)
+* [Does QuickText support RCS chat?](does-quicktext-support-rcs-chat.md)
