@@ -12,9 +12,11 @@
 ## 📚 Guides
 
 * [Tips for writing effective SMS](guides/tips-for-writing-effective-sms.md)
+* [SMS best practices for deliverability](guides/sms-best-practices-for-deliverability.md)
 
 ***
 
+* [How do I warm up my SIM card?](how-do-i-warm-up-my-sim-card.md)
 * [Settings Overview](settings-overview.md)
 * [How to use placeholders](how-to-use-placeholders.md)
 * [How to use the phone number validator](how-to-use-the-phone-number-validator.md)
@@ -24,6 +26,8 @@
 * [How to set custom delays between messages](how-to-set-custom-delays-between-messages.md)
 * [How does QuickText send SMS from my phone, what's the cost?](how-does-quicktext-send-sms-from-my-phone-whats-the-cost.md)
 * [How can I interrupte the sending process?](how-can-i-interrupte-the-sending-process.md)
+* [How to manage opt-outs?](how-to-manage-opt-outs.md)
+* [What should I do if my SIM card gets blocked?](what-should-i-do-if-my-sim-card-gets-blocked.md)
 
 ## 🛠️ Troubleshooting
 
@@ -42,7 +46,10 @@
 
 ***
 
-* [How many SMS messages can I send? Is there a limit?](how-many-sms-messages-can-i-send-is-there-a-limit.md)
-* [Can I view or modify the VBA code?](can-i-view-or-modify-the-vba-code.md)
 * [How do I get a refund?](how-do-i-get-a-refund.md)
-* [How to cancel your subscription](how-to-cancel-your-subscription.md)
+* [How can I cancel my subscription?](how-can-i-cancel-my-subscription.md)
+* [Can I send unlimited texts?](can-i-send-unlimited-texts.md)
+* [Do I need to register for A2P?](do-i-need-to-register-for-a2p.md)
+* [Can I use an eSIM?](can-i-use-an-esim.md)
+* [Can I use a VoIP number like Google Voice or Grasshopper?](can-i-use-a-voip-number-like-google-voice-or-grasshopper.md)
+* [Can I view or modify the VBA code?](can-i-view-or-modify-the-vba-code.md)
