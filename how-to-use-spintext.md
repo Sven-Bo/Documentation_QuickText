@@ -34,6 +34,14 @@ You can even nest placeholders inside spintext:
 [[Hi {{FirstName}}|Hello {{FirstName}}|Hey there]]
 ```
 
+**Possible output:**
+
+> Hey there
+
+or
+
+> Hello Alex
+
 This way, your message gets personalized _and_ varied—without extra work.
 
 ***
