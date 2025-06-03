@@ -22,23 +22,71 @@ Every time a message goes out, one of those options is chosen at random. That wa
 
 ### Examples
 
+### Examples
+
 Here are a few ideas to get you started:
+
+**Input:**
 
 ```
 [[Hi|Hello|Hey]] {{FirstName}}, just checking in!
 ```
 
+**Possible output:**
+
+> Hello Sarah, just checking in!
+
+***
+
+**Input:**
+
 ```
 Your order is [[ready|being packed|on its way]].
 ```
+
+**Possible output:**
+
+> Your order is being packed.
+
+***
+
+**Input:**
 
 ```
 Thanks for your [[purchase|order|support]] — much appreciated!
 ```
 
+**Possible output:**
+
+> Thanks for your support — much appreciated!
+
+***
+
+**Input:**
+
 ```
 Let me know if you have [[any questions|feedback|something you'd like to add]].
 ```
+
+**Possible output:**
+
+> Let me know if you have any questions.
+
+***
+
+**Input:**
+
+```
+[[Hi {{FirstName}}|Hello {{FirstName}}|Hey there]]
+```
+
+**Possible output:**
+
+> Hey there
+
+or
+
+> Hello Alex
 
 You can mix and match as many spintext blocks as you like. Each one is handled separately.
 
