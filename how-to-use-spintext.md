@@ -1,0 +1,113 @@
+---
+description: >-
+  Ever wish your messages didn’t sound like they were copied and pasted a
+  hundred times over? That’s where spintext comes in.
+---
+
+# How to use spintext
+
+### What is spintext?
+
+Spintext is a simple way to make your messages feel more human by adding variation. You define different versions of a word or phrase, and the tool randomly picks one each time the message is sent.
+
+Here’s the basic format:
+
+```
+[[Hi|Hello|Hey there]]
+```
+
+Every time a message goes out, one of those options is chosen at random. That way, even if the message content stays the same, it doesn’t _feel_ the same.
+
+***
+
+### Examples
+
+Here are a few ideas to get you started:
+
+```
+[[Hi|Hello|Hey]] {{FirstName}}, just checking in!
+```
+
+```
+Your order is [[ready|being packed|on its way]].
+```
+
+```
+Thanks for your [[purchase|order|support]] — much appreciated!
+```
+
+```
+Let me know if you have [[any questions|feedback|something you'd like to add]].
+```
+
+You can mix and match as many spintext blocks as you like. Each one is handled separately.
+
+***
+
+### Using spintext with placeholders
+
+Spintext works perfectly with placeholders like `{{FirstName}}` or `{{Company}}`.
+
+You can even nest placeholders inside spintext:
+
+```
+[[Hi {{FirstName}}|Hello {{FirstName}}|Hey there]]
+```
+
+This way, your message gets personalized _and_ varied—without extra work.
+
+***
+
+### A few tips
+
+* Use `[[ ]]` for spintext blocks
+* Separate options with `|` (the pipe symbol)
+* You can include as few or as many options as you want
+* `[[]]` (an empty block) just disappears in the final message
+* Each block is handled separately, even if there are multiple in the same message
+
+***
+
+### FAQ
+
+<details>
+
+<summary><strong>What happens if I only put one item inside the brackets?</strong></summary>
+
+It’ll just use that item—no randomization happens.
+
+</details>
+
+<details>
+
+<summary><strong>Can I put spintext inside another spintext block?</strong></summary>
+
+Nope. Nested spintext like `[[option1|[[nested1|nested2]]]]` isn’t supported. It’ll be ignored.
+
+</details>
+
+<details>
+
+<summary><strong>Can I add emojis, punctuation, or full sentences?</strong></summary>
+
+Absolutely. You can spin whole phrases if you like:
+
+```
+[[Thanks a lot!|Appreciate it.|Much obliged!]]
+```
+
+</details>
+
+<details>
+
+<summary><strong>Will it choose a different result every time?</strong></summary>
+
+Yes—each message sent will process the spintext anew, picking random options independently.
+
+</details>
+
+### Final thought
+
+Spintext is a small trick with a big impact. Think of it like changing your tone when speaking to different people—it keeps things friendly, personal, and just a little more human.
+
+Give it a try and see how your messages start feeling less like broadcasts, and more like conversations.

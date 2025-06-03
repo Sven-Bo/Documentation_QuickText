@@ -19,6 +19,7 @@
 * [How do I warm up my SIM card?](how-do-i-warm-up-my-sim-card.md)
 * [Settings Overview](settings-overview.md)
 * [How to use placeholders](how-to-use-placeholders.md)
+* [How to use spintext](how-to-use-spintext.md)
 * [How to use the phone number validator](how-to-use-the-phone-number-validator.md)
 * [How to send the same SMS to multiple receivers](how-to-send-the-same-sms-to-multiple-receivers.md)
 * [How to insert line breaks and paragraphs in messages](how-to-insert-line-breaks-and-paragraphs-in-messages.md)
