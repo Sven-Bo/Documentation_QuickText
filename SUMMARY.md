@@ -29,6 +29,7 @@
 * [How can I interrupte the sending process?](how-can-i-interrupte-the-sending-process.md)
 * [How to manage opt-outs?](how-to-manage-opt-outs.md)
 * [What should I do if my SIM card gets blocked?](what-should-i-do-if-my-sim-card-gets-blocked.md)
+* [How to disable battery-saving for KDE Connect](how-to-disable-battery-saving-for-kde-connect.md)
 * [How to autofill numbers or messages into more cells](how-to-autofill-numbers-or-messages-into-more-cells.md)
 
 ## 🛠️ Troubleshooting

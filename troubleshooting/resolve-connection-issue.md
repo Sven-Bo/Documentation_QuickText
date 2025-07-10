@@ -46,7 +46,7 @@ This usually means the KDE Connect app on your phone has stopped running or cann
 1. **Check if KDE Connect is running**\
    Open the KDE Connect app on your phone. If it’s not running, start it manually.
 2. **Disable battery-saving mode**\
-   Battery optimization can stop background apps like KDE Connect. In your phone settings, exclude KDE Connect from battery-saving features.
+   Battery optimization can stop background apps like KDE Connect. In your phone settings, exclude KDE Connect from battery-saving features. [Learn how to disable it here.](../how-to-disable-battery-saving-for-kde-connect.md)
 3. **Make sure both devices are on the same Wi-Fi**\
    Your phone and your computer must be connected to the same Wi-Fi network. Mobile data won’t work.
 
