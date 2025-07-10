@@ -1,4 +1,4 @@
-# How to cancel your subscription
+# How can I cancel my subscription?
 
 If you'd like to cancel your subscription, here's how to do it in a few quick steps.
 
@@ -14,7 +14,7 @@ You’ll get a secure login link by email.
 
 Once logged in, click on **Subscription** in the left menu.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3 – Cancel your plan
 
