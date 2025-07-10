@@ -4,4 +4,6 @@
 QuickText - Getting Started Video
 {% endembed %}
 
+{% hint style="info" %}
 #### Having trouble connecting your phone with QuickText? [Check out this guide to fix it.](../troubleshooting/resolve-connection-issue.md)
+{% endhint %}
