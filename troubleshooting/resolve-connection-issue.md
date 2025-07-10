@@ -2,7 +2,7 @@
 
 <details>
 
-<summary>No device found. Please check KDE Connect on your phone.</summary>
+<summary><strong>No device found. Please check KDE Connect on your phone.</strong></summary>
 
 This means your phone is not detected at all. Most of the time, KDE Connect isn’t running on the phone, or the phone is on a different network.
 
@@ -37,7 +37,7 @@ You should now see **Device trusted and connected** in KDE Connect. Go back to E
 
 <details>
 
-<summary>Device is paired but not reachable.</summary>
+<summary><strong>Device is paired but not reachable.</strong></summary>
 
 This usually means the KDE Connect app on your phone has stopped running or cannot be reached.
 
@@ -58,7 +58,7 @@ After doing the steps above, click the **Test Connection** button to check if yo
 
 <details>
 
-<summary>Device is reachable but not paired.</summary>
+<summary><strong>Device is reachable but not paired.</strong></summary>
 
 KDE Connect sees your device, so both the phone and computer are on the same Wi-Fi and have KDE Connect installed. The only thing missing is permission to let them talk to each other — pairing.
 
