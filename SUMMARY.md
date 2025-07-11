@@ -31,6 +31,7 @@
 * [What should I do if my SIM card gets blocked?](what-should-i-do-if-my-sim-card-gets-blocked.md)
 * [How to disable battery-saving for KDE Connect](how-to-disable-battery-saving-for-kde-connect.md)
 * [How to autofill numbers or messages into more cells](how-to-autofill-numbers-or-messages-into-more-cells.md)
+* [How to view and reply to SMS on your computer with KDE Connect](how-to-view-and-reply-to-sms-on-your-computer-with-kde-connect.md)
 
 ## 🛠️ Troubleshooting
 
