@@ -39,10 +39,8 @@
 * [Resolve Connection Issue](troubleshooting/resolve-connection-issue.md)
 * [The SMS is marked as sent on my phone, but the recipient does not receive it](troubleshooting/the-sms-is-marked-as-sent-on-my-phone-but-the-recipient-does-not-receive-it.md)
 * [I'm unable to click on buttons in QuickText](troubleshooting/im-unable-to-click-on-buttons-in-quicktext.md)
-
-***
-
-* ["KDE Connect is sending a large number of SMS messages" Popup](kde-connect-is-sending-a-large-number-of-sms-messages-popup.md)
+* ["KDE Connect is sending a large number of SMS messages" Popup](troubleshooting/kde-connect-is-sending-a-large-number-of-sms-messages-popup.md)
+* [Message gets split into multiple cells when pasting](troubleshooting/message-gets-split-into-multiple-cells-when-pasting.md)
 
 ## ⁉️ FAQ
 
