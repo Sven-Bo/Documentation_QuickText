@@ -38,7 +38,7 @@
 
 * [Resolve Connection Issue](troubleshooting/resolve-connection-issue.md)
 * [The SMS is marked as sent on my phone, but the recipient does not receive it](troubleshooting/the-sms-is-marked-as-sent-on-my-phone-but-the-recipient-does-not-receive-it.md)
-* [Resolving 'The macro may not be available in this workbook or all macros my be disabled'](troubleshooting/resolving-the-macro-may-not-be-available-in-this-workbook-or-all-macros-my-be-disabled.md)
+* [Resolving 'The macro may not be available in this workbook or all macros may be disabled'](troubleshooting/resolving-the-macro-may-not-be-available-in-this-workbook-or-all-macros-may-be-disabled.md)
 * ["KDE Connect is sending a large number of SMS messages" Popup](troubleshooting/kde-connect-is-sending-a-large-number-of-sms-messages-popup.md)
 * [Message gets split into multiple cells when pasting](troubleshooting/message-gets-split-into-multiple-cells-when-pasting.md)
 * [Windows Defender Blocking QuickText (ASR Rule)](troubleshooting/windows-defender-blocking-quicktext-asr-rule.md)
