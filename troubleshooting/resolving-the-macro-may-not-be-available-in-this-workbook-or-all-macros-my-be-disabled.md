@@ -1,8 +1,18 @@
-# I'm unable to click on buttons in QuickText
+# Resolving 'The macro may not be available in this workbook or all macros my be disabled'
+
+<figure><img src="../.gitbook/assets/QuickText_Macros_disabled.png" alt=""><figcaption></figcaption></figure>
 
 If you’re unable to click on any buttons in the **QuickText Excel** file, the issue is likely related to macros not being enabled or the file being blocked. Follow these steps to resolve the issue:
 
-### **Step 1: Check if the File is Unblocked**
+### Video Tutorial:
+
+{% embed url="https://iframe.mediadelivery.net/play/289332/3f621848-fe34-42b5-a828-8faf5dd55256" %}
+
+
+
+### Written Steps:
+
+#### **Step 1: Check if the File is Unblocked**
 
 1. Locate the **QuickText** file on your computer.
 2. Right-click on the file and select **Properties**.
@@ -12,13 +22,13 @@ If you’re unable to click on any buttons in the **QuickText Excel** file, the 
 
 <div align="left"><figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-## **Step 2: Check if You Clicked "Enable Content"**
+#### **Step 2: Check if You Clicked "Enable Content"**
 
 When opening the file, you should be prompted to "Enable Content". Make sure to click this option. If macros are not enabled, the buttons in QuickText will not work.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
-### **Step 3: Manually Enabling Macros (if you didn’t receive the prompt)**
+#### **Step 3: Manually Enabling Macros (if you didn’t receive the prompt)**
 
 If you didn’t receive the "Enable Macros" prompt when opening the file, it could be due to your security settings. Here’s how you can manually adjust the settings:
 
