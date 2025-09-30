@@ -14,8 +14,8 @@ In practice, "unlimited" tends to mean a few hundred messages per day to known c
 
 QuickText doesn’t impose sending caps, but to stay in good standing with your carrier, you’ll want to follow some smart practices:
 
-* 🔥 [**How Do I Warm Up My SIM Card?**](how-do-i-warm-up-my-sim-card.md) – Don’t jump to high volume overnight. Ease in gradually.
-* ✅ [**SMS Best Practices**](guides/sms-best-practices-for-deliverability.md) – Keep your messages human and engaging to avoid being flagged.📲
+* 🔥 [**How Do I Warm Up My SIM Card?**](../how-do-i-warm-up-my-sim-card.md) – Don’t jump to high volume overnight. Ease in gradually.
+* ✅ [**SMS Best Practices**](../guides/sms-best-practices-for-deliverability.md) – Keep your messages human and engaging to avoid being flagged.📲
 
 ### 💡 Final Thought
 

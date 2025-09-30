@@ -47,14 +47,12 @@
 
 * [Can I also send MMS messages?](faq/can-i-also-send-mms-messages.md)
 * [How much doess sending SMS cost?](faq/how-much-doess-sending-sms-cost.md)
-
-***
-
-* [How do I get a refund?](how-do-i-get-a-refund.md)
-* [How can I cancel my subscription?](how-can-i-cancel-my-subscription.md)
-* [Can I send unlimited texts?](can-i-send-unlimited-texts.md)
-* [Do I need to register for A2P?](do-i-need-to-register-for-a2p.md)
-* [Can I use an eSIM?](can-i-use-an-esim.md)
-* [Can I use a VoIP number like Google Voice or Grasshopper?](can-i-use-a-voip-number-like-google-voice-or-grasshopper.md)
-* [Can I view or modify the VBA code?](can-i-view-or-modify-the-vba-code.md)
-* [Does QuickText support RCS chat?](does-quicktext-support-rcs-chat.md)
+* [Which Excel version and phone do I need for QuickText?](faq/which-excel-version-and-phone-do-i-need-for-quicktext.md)
+* [How do I get a refund?](faq/how-do-i-get-a-refund.md)
+* [How can I cancel my subscription?](faq/how-can-i-cancel-my-subscription.md)
+* [Can I send unlimited texts?](faq/can-i-send-unlimited-texts.md)
+* [Do I need to register for A2P?](faq/do-i-need-to-register-for-a2p.md)
+* [Can I use an eSIM?](faq/can-i-use-an-esim.md)
+* [Can I use a VoIP number like Google Voice or Grasshopper?](faq/can-i-use-a-voip-number-like-google-voice-or-grasshopper.md)
+* [Can I view or modify the VBA code?](faq/can-i-view-or-modify-the-vba-code.md)
+* [Does QuickText support RCS chat?](faq/does-quicktext-support-rcs-chat.md)
