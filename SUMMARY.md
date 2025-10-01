@@ -1,21 +1,20 @@
 # Table of contents
 
-* [👋 Welcome to QuickText](README.md)
+* [Welcome to QuickText](README.md)
 
-## 💡 Fundamentals
+## Fundamentals
 
 * [Getting Started](fundamentals/getting-started.md)
 * [Support](fundamentals/support.md)
 * [Release Notes](fundamentals/release-notes.md)
 * [Feature Request](fundamentals/feature-request.md)
 
-## 📚 Guides
-
-* [Tips for writing effective SMS](guides/tips-for-writing-effective-sms.md)
-* [SMS best practices for deliverability](guides/sms-best-practices-for-deliverability.md)
+## Guides
 
 ***
 
+* [Tips for writing effective SMS](tips-for-writing-effective-sms.md)
+* [SMS best practices for deliverability](sms-best-practices-for-deliverability.md)
 * [How do I warm up my SIM card?](how-do-i-warm-up-my-sim-card.md)
 * [Settings Overview](settings-overview.md)
 * [How to use placeholders](how-to-use-placeholders.md)
@@ -34,7 +33,7 @@
 * [How to view and reply to SMS on your computer with KDE Connect](how-to-view-and-reply-to-sms-on-your-computer-with-kde-connect.md)
 * [How to use a different SIM card for sending messages](how-to-use-a-different-sim-card-for-sending-messages.md)
 
-## 🛠️ Troubleshooting
+## Troubleshooting
 
 * [Resolve Connection Issue](troubleshooting/resolve-connection-issue.md)
 * [The SMS is marked as sent on my phone, but the recipient does not receive it](troubleshooting/the-sms-is-marked-as-sent-on-my-phone-but-the-recipient-does-not-receive-it.md)
@@ -43,16 +42,22 @@
 * [Message gets split into multiple cells when pasting](troubleshooting/message-gets-split-into-multiple-cells-when-pasting.md)
 * [Windows Defender Blocking QuickText (ASR Rule)](troubleshooting/windows-defender-blocking-quicktext-asr-rule.md)
 
-## ⁉️ FAQ
+## FAQ
 
 * [Can I also send MMS messages?](faq/can-i-also-send-mms-messages.md)
 * [How much doess sending SMS cost?](faq/how-much-doess-sending-sms-cost.md)
 * [Which Excel version and phone do I need for QuickText?](faq/which-excel-version-and-phone-do-i-need-for-quicktext.md)
-* [How do I get a refund?](faq/how-do-i-get-a-refund.md)
-* [How can I cancel my subscription?](faq/how-can-i-cancel-my-subscription.md)
 * [Can I send unlimited texts?](faq/can-i-send-unlimited-texts.md)
 * [Do I need to register for A2P?](faq/do-i-need-to-register-for-a2p.md)
 * [Can I use an eSIM?](faq/can-i-use-an-esim.md)
 * [Can I use a VoIP number like Google Voice or Grasshopper?](faq/can-i-use-a-voip-number-like-google-voice-or-grasshopper.md)
 * [Can I view or modify the VBA code?](faq/can-i-view-or-modify-the-vba-code.md)
 * [Does QuickText support RCS chat?](faq/does-quicktext-support-rcs-chat.md)
+
+## Account Management
+
+* [How can I cancel my subscription?](account-management/how-can-i-cancel-my-subscription.md)
+* [How to view your invoices?](account-management/how-to-view-your-invoices.md)
+* [How do I get a refund?](account-management/how-do-i-get-a-refund.md)
+* [When your subscription renews](account-management/when-your-subscription-renews.md)
+* [How to manage devices linked to your license](account-management/how-to-manage-devices-linked-to-your-license.md)
