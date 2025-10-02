@@ -11,8 +11,6 @@
 
 ## Guides
 
-***
-
 * [Tips for writing effective SMS](tips-for-writing-effective-sms.md)
 * [SMS best practices for deliverability](sms-best-practices-for-deliverability.md)
 * [How do I warm up my SIM card?](how-do-i-warm-up-my-sim-card.md)
