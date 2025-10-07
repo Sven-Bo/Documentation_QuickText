@@ -52,6 +52,7 @@
 * [Can I use a VoIP number like Google Voice or Grasshopper?](faq/can-i-use-a-voip-number-like-google-voice-or-grasshopper.md)
 * [Can I view or modify the VBA code?](faq/can-i-view-or-modify-the-vba-code.md)
 * [Does QuickText support RCS chat?](faq/does-quicktext-support-rcs-chat.md)
+* [Why Can’t I Schedule SMS?](faq/why-cant-i-schedule-sms.md)
 
 ## Account Management
 
