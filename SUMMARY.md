@@ -33,6 +33,7 @@
 
 ## Troubleshooting
 
+* [SMS Not Sending: Quick Troubleshooting](troubleshooting/sms-not-sending-quick-troubleshooting.md)
 * [Resolve Connection Issue](troubleshooting/resolve-connection-issue.md)
 * [The SMS is marked as sent on my phone, but the recipient does not receive it](troubleshooting/the-sms-is-marked-as-sent-on-my-phone-but-the-recipient-does-not-receive-it.md)
 * [Resolving 'The macro may not be available in this workbook or all macros may be disabled'](troubleshooting/resolving-the-macro-may-not-be-available-in-this-workbook-or-all-macros-may-be-disabled.md)
