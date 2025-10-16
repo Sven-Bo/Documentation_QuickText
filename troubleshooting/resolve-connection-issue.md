@@ -99,7 +99,7 @@ See more details here: [Antivirus or Firewall Warning / False Positive](https://
 * Or, add QuickText as an exception (whitelist it) in your antivirus or firewall settings.
 
 {% hint style="info" %}
-If this solves the issue, please send a quick email to contact@pythonandvba.com and let me know which antivirus or firewall software you are using. I’ll reach out to them to fix the false positive, so you (and others) won’t need to whitelist QuickText in the future.
+If this solves the issue, please [send me a quick email (contact@pythonandvba.com)](mailto:contact@pythonandvba.com?subject=QuickText%20-%20Antivirus%20False%20Positive\&body=Hi%20Sven%2C%0A%0AI%20ran%20into%20a%20'Permission%20denied'%20error%20and%20found%20out%20it%20was%20my%20antivirus%20or%20firewall.%20I%20wanted%20to%20let%20you%20know%20I%20am%20using%20%5Bname%20of%20antivirus%2Ffirewall%5D.%0A%0AThanks%2C%0A%5Byour%20name%5D) and let me know which antivirus or firewall software you are using. I’ll reach out to them to fix the false positive, so you (and others) won’t need to whitelist QuickText in the future.
 {% endhint %}
 
 </details>
