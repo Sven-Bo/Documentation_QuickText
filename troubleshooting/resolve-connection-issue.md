@@ -86,7 +86,7 @@ Now go back to Excel and click **Test Connection** to confirm everything is work
 
 <details>
 
-<summary>Error checking KDE Connect installation: ERROR: Permission denied</summary>
+<summary><strong>Error checking KDE Connect installation: ERROR: Permission denied</strong></summary>
 
 This error usually means your antivirus or **firewall is blocking QuickText**.
 
