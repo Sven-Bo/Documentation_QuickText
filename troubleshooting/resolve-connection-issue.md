@@ -84,3 +84,23 @@ Now go back to Excel and click **Test Connection** to confirm everything is work
 
 </details>
 
+<details>
+
+<summary>Error checking KDE Connect installation: ERROR: Permission denied</summary>
+
+This error usually means your antivirus or **firewall is blocking QuickText**.
+
+Some antivirus or firewall tools can falsely flag QuickText as a risk, even though there is nothing harmful inside. Well-known programs like Kaspersky and Windows Defender show it as safe.\
+See more details here: [Antivirus or Firewall Warning / False Positive](https://docs.pythonandvba.com/quicktext/troubleshooting/antivirus-or-firewall-warning-false-positive)
+
+**What you can do:**
+
+* Temporarily turn off your antivirus or firewall and run QuickText again.
+* Or, add QuickText as an exception (whitelist it) in your antivirus or firewall settings.
+
+{% hint style="info" %}
+If this solves the issue, please send a quick email to contact@pythonandvba.com and let me know which antivirus or firewall software you are using. I’ll reach out to them to fix the false positive, so you (and others) won’t need to whitelist QuickText in the future.
+{% endhint %}
+
+</details>
+
