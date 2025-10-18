@@ -52,7 +52,7 @@ This usually means the KDE Connect app on your phone has stopped running or cann
 
 After doing the steps above, click the **Test Connection** button to check if your phone is now reachable.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -68,7 +68,7 @@ KDE Connect sees your device, so both the phone and computer are on the same Wi-
     Your phone should show up as available. Select it and click the **Pair** button.\
 
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 2. **Check your phone**\
    You’ll get a pairing request in the KDE Connect app. Tap **Accept** to confirm.\
    ![](<../.gitbook/assets/image (3).png>)
