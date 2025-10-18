@@ -78,17 +78,28 @@ If successful, you should see a list of your connected KDE Connect devices (or a
 
 If you've followed all steps and the command still doesn't work, consider these alternatives:
 
-#### Option A: Reinstall KDE Connect
+#### Uninstall the Windows Store Version
 
-1. Uninstall KDE Connect from the Microsoft Store
-2. Restart your computer
-3. Reinstall KDE Connect from the Microsoft Store
-4. Repeat the troubleshooting steps above
+1. Click the **Start** button or press the **Windows key**
+2. Type **KDE Connect** in the search bar
+3. Right-click on **KDE Connect** in the search results
+4. Select **Uninstall**
+5. Confirm the uninstallation
 
-#### Option B: Use the Desktop Version
+#### Install the Desktop Version
 
-Instead of the Windows Store version, install KDE Connect from the official website:
+1. Go to [kdeconnect.kde.org/download.html](https://kdeconnect.kde.org/download.html)
+2. Download the Windows installer
+3. Run the installer and follow the installation steps
+4. **Restart your computer**
 
-1. Download the installer from [kdeconnect.kde.org/download.html](https://kdeconnect.kde.org/download.html)
-2. Install the desktop version
+#### Verify the Fix
+
+After restarting, open a **new** Command Prompt window and run the test command again:
+
+```
+%comspec% /c set LANG=en_US.UTF-8 && kdeconnect-cli --list-devices > %TEMP%\test.txt && type %TEMP%\test.txt
+```
+
+If successful, you should see a list of your connected KDE Connect devices (or an empty list if no devices are connected).
 
