@@ -21,7 +21,7 @@ Windows Store apps use execution aliases that need to be enabled.
 3. Scroll down and find **KDE Connect**
 4. Ensure the toggle is **ON** (enabled)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Verify KDE Connect CLI File Exists
 
@@ -37,7 +37,7 @@ dir "%LOCALAPPDATA%\Microsoft\WindowsApps\kdeconnect-cli.exe"
 3. If the file is found, proceed to Step 3
 4. If the file is **not found**, you may need to reinstall KDE Connect from the Microsoft Store
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Add WindowsApps to Environment Variables
 
@@ -93,7 +93,6 @@ If you've followed all steps and the command still doesn't work, try reinstallin
 1. Go to [kdeconnect.kde.org/download.html](https://kdeconnect.kde.org/download.html)
 2. Download the Windows installer
 3. Run the installer and follow the installation steps
-4. **Restart your computer**
 
 #### Add KDE Connect to Environment Variables
 
@@ -105,8 +104,13 @@ After installing the desktop version, you need to add it to your PATH:
 4. Under **User variables for \<username>**, find and select **Path**
 5. Click **Edit**
 6. Click **New**
-7. Add the path: C:\Program Files\KDE Connect\bin
-8. Click **OK** on all dialogs to save changes
+7.  Add the path:&#x20;
+
+    ```
+    C:\Program Files\KDE Connect\bin
+    ```
+8. Click **OK** on all dialogs to save changes\
+   ![](../.gitbook/assets/image.png)
 9. **Restart your computer** again
 
 #### Verify the Fix
