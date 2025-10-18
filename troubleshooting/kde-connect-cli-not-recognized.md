@@ -43,7 +43,8 @@ dir "%LOCALAPPDATA%\Microsoft\WindowsApps\kdeconnect-cli.exe"
 
 Ensure the WindowsApps folder is added to your system PATH.
 
-1. Press **Win + R**, type `sysdm.cpl`, and press **Enter**
+1. Press **Win + R**, type `sysdm.cpl`, and press **Enter**\
+   ![](<../.gitbook/assets/image (17).png>)
 2. Click the **Advanced** tab
 3. Click the **Environment Variables** button
 4. Under **User variables for \<username>**, find and select **Path**
@@ -55,7 +56,8 @@ Ensure the WindowsApps folder is added to your system PATH.
 ```
 
 7. If it doesn't exist, click **New** and add the path
-8. Click **OK** on all dialogs to save changes
+8. Click **OK** on all dialogs to save changes\
+   ![](<../.gitbook/assets/image (18).png>)
 
 ### Step 4: Restart Your Computer
 
