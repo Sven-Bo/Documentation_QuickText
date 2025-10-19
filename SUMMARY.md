@@ -42,6 +42,7 @@
 * [Windows Defender Blocking QuickText (ASR Rule)](troubleshooting/windows-defender-blocking-quicktext-asr-rule.md)
 * [Antivirus or Firewall Warning (False Positive)](troubleshooting/antivirus-or-firewall-warning-false-positive.md)
 * [KDE Connect CLI Not Recognized](troubleshooting/kde-connect-cli-not-recognized.md)
+* [Run KDE Connect Diagnostic Tool](troubleshooting/run-kde-connect-diagnostic-tool.md)
 
 ## FAQ
 
@@ -63,3 +64,7 @@
 * [How do I get a refund?](account-management/how-do-i-get-a-refund.md)
 * [When your subscription renews](account-management/when-your-subscription-renews.md)
 * [How to manage devices linked to your license](account-management/how-to-manage-devices-linked-to-your-license.md)
+
+***
+
+* [download](download.md)
