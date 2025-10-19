@@ -7,9 +7,9 @@ Coming Soon!
 **How to use:**
 
 1. [Download kde\_connect\_diagnostic.bat](https://github.com/Sven-Bo/quicktext_kde_connect_cli_diagnostic_tool/blob/main/kde_connect_diagnostic.bat)
-2. Double-click the downloaded kde\_connect\_diagnostic.bat file
-3. Review the diagnostic results
-4. Follow the appropriate fix below based on the results
+2. Right-click the downloaded file, select Properties, and unblock it if needed.
+3. Double-click the `kde_connect_diagnostic.bat` file to run it.
+4. Share the diagnostic results (log file) with QuickText support.
 
 ### Common Fixes
 
