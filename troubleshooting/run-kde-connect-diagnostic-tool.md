@@ -2,7 +2,7 @@
 
 ### Video Tutorial
 
-Coming Soon!
+{% embed url="https://iframe.mediadelivery.net/play/289332/a9f671f5-9ee8-4694-a944-4c351f072073" %}
 
 **How to use:**
 
@@ -11,13 +11,11 @@ Coming Soon!
 3. Double-click the `kde_connect_diagnostic.bat` file to run it.
 4. Share the diagnostic results (log file) with QuickText support.
 
-### Common Fixes
+***
 
-Based on the diagnostic results, here at the common fixes:
+### Fix 1: Enable App Execution Aliases
 
-<details>
-
-<summary>Fix 1: Enable App Execution Aliases</summary>
+{% embed url="https://iframe.mediadelivery.net/play/289332/5b8be44f-64c4-4277-832e-ac9f6ee5d448" %}
 
 Windows Store apps use execution aliases that need to be enabled.
 
@@ -28,19 +26,13 @@ Windows Store apps use execution aliases that need to be enabled.
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 
-</details>
-
-<details>
-
-<summary>Fix 2: Add Windows App Path to Environment Variables</summary>
-
-### Video Tutorial
-
-Coming Soon!
-
 ***
 
-### Step-By-Step Instructions
+### Fix 2: Add Windows App Path to Environment Variables
+
+{% embed url="https://iframe.mediadelivery.net/play/289332/fda6a521-08bb-4cee-8269-f7bc6c17a2f1" %}
+
+#### Step-By-Step Instructions
 
 1. Press **Win + R**, type `sysdm.cpl`, and press **Enter**\
    &#x20;![](<../.gitbook/assets/image (20).png>)
@@ -62,21 +54,15 @@ Coming Soon!
 **After all steps: Restart your compute**r and run the diagnostic tool again
 {% endhint %}
 
-</details>
-
-<details>
-
-<summary>Use KDE Connect Desktop Installer</summary>
-
-### Video Tutorial
-
-Coming Soon!
-
 ***
 
-### Step-By-Step Instructions
+### Fix 3: Use KDE Connect Desktop Installer
 
-#### **Uninstall the Windows Store Version**
+{% embed url="https://iframe.mediadelivery.net/play/289332/3fd24a19-5cb3-4a74-ab93-7f524f747fe3" %}
+
+#### Step-By-Step Instructions
+
+**Uninstall the Windows Store Version**
 
 1. Click the **Start** button or press the **Windows key**
 2. Type **KDE Connect** in the search bar
@@ -84,13 +70,13 @@ Coming Soon!
 4. Select **Uninstall**
 5. Confirm the uninstallation
 
-#### **Install the Desktop Version**
+**Install the Desktop Version**
 
 1. Go to [kdeconnect.kde.org/download.html](https://kdeconnect.kde.org/download.html)
 2. Download the Windows installer
 3. Run the installer and follow the installation steps
 
-#### **Add KDE Connect to Environment Variables**
+**Add KDE Connect to Environment Variables**
 
 After installing the desktop version, you need to add it to your PATH:
 
@@ -112,6 +98,3 @@ After installing the desktop version, you need to add it to your PATH:
 {% hint style="warning" %}
 **After all steps: Restart your compute**r and run the diagnostic tool again
 {% endhint %}
-
-</details>
-
