@@ -33,6 +33,13 @@ You should now see **Device trusted and connected** in KDE Connect. Go back to E
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+If you’ve done all the steps above and your phone still isn’t found, there may be an issue with your KDE Connect installation. Please run the KDE Connect Diagnostic Tool to check what’s going wrong:\
+[https://docs.pythonandvba.com/quicktext/troubleshooting/run-kde-connect-diagnostic-tool](https://docs.pythonandvba.com/quicktext/troubleshooting/run-kde-connect-diagnostic-tool)
+
+Once you’ve run the tool, email me the logfile. The video on the page shows exactly how to do this.
+{% endhint %}
+
 </details>
 
 <details>
