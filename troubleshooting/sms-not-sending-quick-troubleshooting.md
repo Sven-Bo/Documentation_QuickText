@@ -15,6 +15,16 @@ If your SMS messages are not being sent, follow these steps:
 * This usually means the connection to your phone was lost.
 * Make sure the KDE Connect app stays open on your phone while you send messages. Don’t close or swipe away the app during sending.
 
+Also, please check that KDE Connect has permission to send SMS:
+
+* Open the KDE Connect app on your phone.\
+  If you see “Send SMS” with a warning icon, tap it and grant permission.\
+  ![](../.gitbook/assets/image.png)
+* In your phone’s Settings → Apps → KDE Connect → Permissions, make sure both **Notifications** and **SMS** are allowed.\
+  ![](<../.gitbook/assets/image (1).png>)
+* On your PC, open the KDE Connect desktop app and go to **Plugin Settings**. Ensure **Send and receive SMS** and **Ping** are ticked.\
+  ![](<../.gitbook/assets/image (23).png>)
+
 ***
 
 #### 3. Do you see the messages in your SMS app, but the recipient doesn’t get them?
