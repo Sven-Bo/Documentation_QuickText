@@ -113,7 +113,7 @@ If this solves the issue, please [send me a quick email (contact@pythonandvba.co
 
 <details>
 
-<summary>Excel freezes or crashes when you Click "Connect your phone"</summary>
+<summary><strong>Excel freezes or crashes when you Click "Connect your phone"</strong></summary>
 
 If you click the "Connect your phone" button in QuickText and Excel just freezes or crashes, here’s what’s likely going on and what you can do to fix it.
 
