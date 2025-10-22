@@ -111,3 +111,36 @@ If this solves the issue, please [send me a quick email (contact@pythonandvba.co
 
 </details>
 
+<details>
+
+<summary>Excel freezes or crashes when you Click "Connect your phone"</summary>
+
+If you click the "Connect your phone" button in QuickText and Excel just freezes or crashes, here’s what’s likely going on and what you can do to fix it.
+
+#### What’s the problem?
+
+When you hit "Connect your phone," QuickText tries to run a few commands in the background to check your KDE Connect connection. Some antivirus or firewall tools block these commands, which causes QuickText to hang. Sometimes, Excel might crash or stay stuck.
+
+#### Why does this happen?
+
+QuickText uses VBA macros and small scripts in the background to talk to your phone and send messages. Many antivirus programs don’t like files that automate tasks or open the command prompt, even if the file is safe. This is common with any automation tool that works with Excel.
+
+#### What should you do?
+
+1. **Temporarily turn off your antivirus or firewall.**\
+   Try the "Connect your phone" button again. If it works, you know your security software is blocking QuickText.
+2. **Add QuickText to your antivirus or firewall’s whitelist (exceptions).**\
+   Look up how to add a file or folder to your security tool’s exceptions list. Once added, turn your antivirus or firewall back on.
+3. **Still stuck?**\
+   [Click here to email me your antivirus or firewall name](https://app.gitbook.com/u/FP09XfZGEvclVenvINFc9AUv2W22)\
+   I’ll try to contact the company and get QuickText whitelisted.
+
+#### Is QuickText safe?
+
+Yes. I check QuickText daily on VirusTotal. Big antivirus tools like Kaspersky and Windows Defender show it as clean. Sometimes, a smaller antivirus will flag it. When that happens, I send a report to the vendor. If they don’t reply, the warning might stay for a while.
+
+If you want to see the VirusTotal results, check here: [antivirus-or-firewall-warning-false-positive.md](antivirus-or-firewall-warning-false-positive.md "mention")\
+
+
+</details>
+
