@@ -132,7 +132,7 @@ QuickText uses VBA macros and small scripts in the background to talk to your ph
 2. **Add QuickText to your antivirus or firewall’s whitelist (exceptions).**\
    Look up how to add a file or folder to your security tool’s exceptions list. Once added, turn your antivirus or firewall back on.
 3. **Still stuck?**\
-   [Click here to email me your antivirus or firewall name](https://app.gitbook.com/u/FP09XfZGEvclVenvINFc9AUv2W22)\
+   [Click here to email me (contact@pythonandvba.com) your antivirus or firewall name.](mailto:contact@pythonandvba.com?subject=QuickText%20Antivirus%20or%20Firewall%20Block)\
    I’ll try to contact the company and get QuickText whitelisted.
 
 #### Is QuickText safe?
