@@ -43,6 +43,7 @@
 * [Antivirus or Firewall Warning (False Positive)](troubleshooting/antivirus-or-firewall-warning-false-positive.md)
 * [KDE Connect CLI Not Recognized](troubleshooting/kde-connect-cli-not-recognized.md)
 * [Run KDE Connect Diagnostic Tool](troubleshooting/run-kde-connect-diagnostic-tool.md)
+* [KDE Connect window stuck on plugin settings](troubleshooting/kde-connect-window-stuck-on-plugin-settings.md)
 
 ## FAQ
 
