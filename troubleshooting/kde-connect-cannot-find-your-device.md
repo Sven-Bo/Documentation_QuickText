@@ -7,6 +7,8 @@ Also check the WiFi band. Both devices must use the **same band**, either 2.4 GH
 
 If that is correct, continue with the steps below.
 
+***
+
 ### If it was working before and suddenly stopped
 
 A clean reinstall often fixes it.
@@ -26,6 +28,8 @@ A clean reinstall often fixes it.
 3. Install it again from the Play Store.
 
 Then try pairing again.
+
+***
 
 ### If you are using KDE Connect for the first time
 
