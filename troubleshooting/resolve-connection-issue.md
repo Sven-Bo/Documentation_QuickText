@@ -15,21 +15,18 @@ This means your phone is not detected at all. Most of the time, KDE Connect isn�
 3. **Open KDE Connect on your phone**\
    Once open, it should start scanning for nearby devices.
 4.  **Click "Refresh Devices" in KDE Connect Desktop**\
-    Your phone should now appear in the list.\
-
+    Your phone should now appear in the list.\\
 
     <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
     <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 5. **Pair your devices**
    * Select your phone on the left panel and click **Pair**
-   *   On your phone, tap **Accept** when the request appears\
-
+   *   On your phone, tap **Accept** when the request appears\\
 
        <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
-You should now see **Device trusted and connected** in KDE Connect. Go back to Excel and click **Connect Your Phone** to confirm everything works.\
-
+You should now see **Device trusted and connected** in KDE Connect. Go back to Excel and click **Connect Your Phone** to confirm everything works.\\
 
 <figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
@@ -72,22 +69,20 @@ KDE Connect sees your device, so both the phone and computer are on the same Wi-
 **✅ Steps to fix:**
 
 1.  **Open KDE Connect on your computer**\
-    Your phone should show up as available. Select it and click the **Pair** button.\
+    Your phone should show up as available. Select it and click the **Pair** button.\\
 
-
-    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2. **Check your phone**\
    You’ll get a pairing request in the KDE Connect app. Tap **Accept** to confirm.\
-   ![](<../.gitbook/assets/image (3).png>)
+   ![](<../.gitbook/assets/image (3) (1).png>)
 3.  **Connection confirmed**\
-    After pairing, the status should change to **Device trusted and connected** on the desktop app.\
+    After pairing, the status should change to **Device trusted and connected** on the desktop app.\\
 
-
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now go back to Excel and click **Test Connection** to confirm everything is working.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -117,15 +112,15 @@ If this solves the issue, please [send me a quick email (contact@pythonandvba.co
 
 If you click the "Connect your phone" button in QuickText and Excel just freezes or crashes, here’s what’s likely going on and what you can do to fix it.
 
-#### What’s the problem?
+**What’s the problem?**
 
 When you hit "Connect your phone," QuickText tries to run a few commands in the background to check your KDE Connect connection. Some antivirus or firewall tools block these commands, which causes QuickText to hang. Sometimes, Excel might crash or stay stuck.
 
-#### Why does this happen?
+**Why does this happen?**
 
 QuickText uses VBA macros and small scripts in the background to talk to your phone and send messages. Many antivirus programs don’t like files that automate tasks or open the command prompt, even if the file is safe. This is common with any automation tool that works with Excel.
 
-#### What should you do?
+**What should you do?**
 
 1. **Temporarily turn off your antivirus or firewall.**\
    Try the "Connect your phone" button again. If it works, you know your security software is blocking QuickText.
@@ -135,12 +130,10 @@ QuickText uses VBA macros and small scripts in the background to talk to your ph
    [Click here to email me (contact@pythonandvba.com) your antivirus or firewall name.](mailto:contact@pythonandvba.com?subject=QuickText%20Antivirus%20or%20Firewall%20Block)\
    I’ll try to contact the company and get QuickText whitelisted.
 
-#### Is QuickText safe?
+**Is QuickText safe?**
 
 Yes. I check QuickText daily on VirusTotal. Big antivirus tools like Kaspersky and Windows Defender show it as clean. Sometimes, a smaller antivirus will flag it. When that happens, I send a report to the vendor. If they don’t reply, the warning might stay for a while.
 
-If you want to see the VirusTotal results, check here: [antivirus-or-firewall-warning-false-positive.md](antivirus-or-firewall-warning-false-positive.md "mention")\
-
+If you want to see the VirusTotal results, check here: [antivirus-or-firewall-warning-false-positive.md](antivirus-or-firewall-warning-false-positive.md "mention")\\
 
 </details>
-

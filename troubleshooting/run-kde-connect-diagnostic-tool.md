@@ -24,7 +24,7 @@ Windows Store apps use execution aliases that need to be enabled.
 3. Scroll down and find **KDE Connect**
 4. Ensure the toggle is **ON** (enabled)
 
-<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -35,19 +35,18 @@ Windows Store apps use execution aliases that need to be enabled.
 #### Step-By-Step Instructions
 
 1. Press **Win + R**, type `sysdm.cpl`, and press **Enter**\
-   &#x20;![](<../.gitbook/assets/image (20).png>)
+   ![](<../.gitbook/assets/image (17) (1).png>)
 2. Click the **Advanced** tab
 3. Click the **Environment Variables** button
 4. Under **User variables for \<username>**, find and select **Path**
 5. Click **Edit**
-6.  Check if the following path already exists:\
-
+6.  Check if the following path already exists:\\
 
     ```
     %USERPROFILE%\AppData\Local\Microsoft\WindowsApps
     ```
 7. If it doesn't exist, click **New** and add the path\
-   ![](<../.gitbook/assets/image (21).png>)
+   ![](<../.gitbook/assets/image (18) (1).png>)
 8. Click **OK** on all dialogs to save changes
 
 {% hint style="warning" %}
@@ -86,14 +85,13 @@ After installing the desktop version, you need to add it to your PATH:
 4. Under **User variables for \<username>**, find and select **Path**
 5. Click **Edit**
 6. Click **New**
-7.  Add the path:\
-
+7.  Add the path:\\
 
     ```
     C:\Program Files\KDE Connect\bin
     ```
 8. Click **OK** on all dialogs to save changes\
-   ![](<../.gitbook/assets/image (22).png>)
+   ![](<../.gitbook/assets/image (2) (2).png>)
 
 {% hint style="warning" %}
 **After all steps: Restart your compute**r and run the diagnostic tool again

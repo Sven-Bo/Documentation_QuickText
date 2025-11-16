@@ -44,6 +44,7 @@
 * [KDE Connect CLI Not Recognized](troubleshooting/kde-connect-cli-not-recognized.md)
 * [Run KDE Connect Diagnostic Tool](troubleshooting/run-kde-connect-diagnostic-tool.md)
 * [KDE Connect window stuck on plugin settings](troubleshooting/kde-connect-window-stuck-on-plugin-settings.md)
+* [KDE Connect cannot find your device](troubleshooting/kde-connect-cannot-find-your-device.md)
 
 ## FAQ
 

@@ -21,7 +21,7 @@ Windows Store apps use execution aliases that need to be enabled.
 3. Scroll down and find **KDE Connect**
 4. Ensure the toggle is **ON** (enabled)
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Verify KDE Connect CLI File Exists
 
@@ -104,13 +104,13 @@ After installing the desktop version, you need to add it to your PATH:
 4. Under **User variables for \<username>**, find and select **Path**
 5. Click **Edit**
 6. Click **New**
-7.  Add the path:&#x20;
+7.  Add the path:
 
     ```
     C:\Program Files\KDE Connect\bin
     ```
 8. Click **OK** on all dialogs to save changes\
-   ![](<../.gitbook/assets/image (2).png>)
+   ![](<../.gitbook/assets/image (2) (1).png>)
 9. **Restart your computer** again
 
 #### Verify the Fix
@@ -122,4 +122,3 @@ After restarting, open a **new** Command Prompt window and run the test command 
 ```
 
 If successful, you should see a list of your connected KDE Connect devices (or an empty list if no devices are connected).
-

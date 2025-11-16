@@ -8,8 +8,6 @@ If you’re unable to click on any buttons in the **QuickText Excel** file, the 
 
 {% embed url="https://iframe.mediadelivery.net/play/289332/3f621848-fe34-42b5-a828-8faf5dd55256" %}
 
-
-
 ### Written Steps:
 
 #### **Step 1: Check if the File is Unblocked**
@@ -20,7 +18,7 @@ If you’re unable to click on any buttons in the **QuickText Excel** file, the 
 4. If you see the message "This file came from another computer and might be blocked to help protect this computer," check the box labeled **Unblock**.
 5. Click **Apply** and then **OK**.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 #### **Step 2: Check if You Clicked "Enable Content"**
 
@@ -47,4 +45,4 @@ If you didn’t receive the "Enable Macros" prompt when opening the file, it cou
 **Note**: Keep in mind that these are global macro settings. By choosing "Enable VBA macros," macros will automatically run for any Excel file you open, not just the SMS Blaster. Use this option with caution, especially when working with files from untrusted sources.
 {% endhint %}
 
-<div align="left"><figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
