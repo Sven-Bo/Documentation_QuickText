@@ -19,7 +19,7 @@ A clean reinstall often fixes it.
 2. Type KDE Connect.
 3. Right click.
 4. Select Uninstall.\
-   ![](<../.gitbook/assets/image (2).png>)
+   ![](/broken/files/1w7ltDELzqefQI1sDsrw)
 
 #### On Android
 
@@ -39,8 +39,7 @@ Then try pairing again.
 2. Select your network.
 3. Click the info button.
 4. Scroll to Network profile.
-5.  Choose Private.\
-
+5.  Choose Private.\\
 
     <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
