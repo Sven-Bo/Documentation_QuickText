@@ -66,4 +66,4 @@
 * [How do I get a refund?](account-management/how-do-i-get-a-refund.md)
 * [When your subscription renews](account-management/when-your-subscription-renews.md)
 * [How to manage devices linked to your license](account-management/how-to-manage-devices-linked-to-your-license.md)
-* [How to add extra devices](account-management/how-to-add-extra-devices.md)
+* [How to add extra devices to your license](account-management/how-to-add-extra-devices-to-your-license.md)
