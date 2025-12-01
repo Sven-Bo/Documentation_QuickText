@@ -56,7 +56,7 @@ This usually means the KDE Connect app on your phone has stopped running or cann
 
 After doing the steps above, click the **Test Connection** button to check if your phone is now reachable.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

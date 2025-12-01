@@ -21,7 +21,7 @@ Also, please check that KDE Connect has permission to send SMS:
   If you see “Send SMS” with a warning icon, tap it and grant permission.\
   ![](<../.gitbook/assets/image (4).png>)
 * In your phone’s Settings → Apps → KDE Connect → Permissions, make sure both **Notifications** and **SMS** are allowed.\
-  ![](<../.gitbook/assets/image (1) (1).png>)
+  ![](<../.gitbook/assets/image (1) (1) (1).png>)
 * On your PC, open the KDE Connect desktop app and go to **Plugin Settings**. Ensure **Send and receive SMS** and **Ping** are ticked.\
   ![](<../.gitbook/assets/image (23).png>)
 

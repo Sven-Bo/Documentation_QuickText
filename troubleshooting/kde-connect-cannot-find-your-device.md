@@ -41,7 +41,7 @@ Then try pairing again.
 4. Scroll to Network profile.
 5.  Choose Private.\\
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 2. Turn off Device Isolation on Windows
 
