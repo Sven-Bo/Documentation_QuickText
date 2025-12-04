@@ -47,10 +47,13 @@ The import wizard guides you through 5 steps:
 
 **Duplicate Handling**
 
-* **Update** – Imports new contacts and updates existing ones with changes
-* **Skip** – Only imports new phone numbers, leaves existing contacts unchanged
-* **Allow** – Imports everything as new (may create duplicates)\
-  ![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4).png>)
+
+| Import Option                                    | Action for New Contacts | Action for Existing Contacts       |
+| ------------------------------------------------ | ----------------------- | ---------------------------------- |
+| Skip duplicates (keep existing data unchanged)   | ✅ Added                 | ❌ Left unchanged                   |
+| Update duplicates (merge new data into existing) | ✅ Added                 | ✅ Updated with new data            |
+| Allow duplicates (import all as new contacts)    | ✅ Added                 | ✅ Added again (creates duplicates) |
 
 **Assign to List** Assign all imported contacts to a list. You can select an existing list or type a new name. Contacts can belong to multiple lists (comma-separated).\
 ![](<../.gitbook/assets/image (5).png>)
