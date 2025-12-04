@@ -29,4 +29,4 @@ If your **Default Delay** is set to **5 seconds** and your **Random Delay** rang
 
 * Click **Save Settings** to apply the changes.
 
-<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

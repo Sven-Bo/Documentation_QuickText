@@ -37,7 +37,7 @@ dir "%LOCALAPPDATA%\Microsoft\WindowsApps\kdeconnect-cli.exe"
 3. If the file is found, proceed to Step 3
 4. If the file is **not found**, you may need to reinstall KDE Connect from the Microsoft Store
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 3: Add WindowsApps to Environment Variables
 

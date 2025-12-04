@@ -14,7 +14,7 @@ You’ll get a secure login link by email.
 
 Once logged in, click on **Invoice** in the left menu.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Step 3 – View your invoice
 
