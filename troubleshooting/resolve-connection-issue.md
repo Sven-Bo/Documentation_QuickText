@@ -56,7 +56,7 @@ This usually means the KDE Connect app on your phone has stopped running or cann
 
 After doing the steps above, click the **Test Connection** button to check if your phone is now reachable.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -71,14 +71,14 @@ KDE Connect sees your device, so both the phone and computer are on the same Wi-
 1.  **Open KDE Connect on your computer**\
     Your phone should show up as available. Select it and click the **Pair** button.\\
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 2. **Check your phone**\
    You’ll get a pairing request in the KDE Connect app. Tap **Accept** to confirm.\
-   ![](<../.gitbook/assets/image (3) (1) (1).png>)
+   ![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 3.  **Connection confirmed**\
     After pairing, the status should change to **Device trusted and connected** on the desktop app.\\
 
-    <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Now go back to Excel and click **Test Connection** to confirm everything is working.
 

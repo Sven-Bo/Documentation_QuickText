@@ -16,6 +16,7 @@
 * [How do I warm up my SIM card?](how-do-i-warm-up-my-sim-card.md)
 * [Settings Overview](settings-overview.md)
 * [How to import contacts](guides/how-to-import-contacts.md)
+* [How to add contacts to your send list](guides/how-to-add-contacts-to-your-send-list.md)
 * [How to use placeholders](how-to-use-placeholders.md)
 * [How to use spintext](how-to-use-spintext.md)
 * [How to use the phone number validator](how-to-use-the-phone-number-validator.md)

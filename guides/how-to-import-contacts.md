@@ -34,20 +34,20 @@ The import wizard guides you through 5 steps:
 ### Things to Know
 
 **First Row as Headers** Your file (ideally) should have column headers in the first row. The wizard uses these to help you map columns.\
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (6).png>)
 
 **Phone Column Auto-Detection** QuickText automatically detects your phone column if it contains words like "Phone", "Mobile", "Cell", or "Tel".\
-![](<../.gitbook/assets/image (1).png>)\
+![](<../.gitbook/assets/image (1) (1).png>)\
 \
 **Multiple Columns** You can import additional columns (e.g., First Name, Last Name, City) that will be added to your Contacts table. These can be used as placeholders in your messages.\
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 **Phone Number Formatting** Enable "Standardize phone numbers" to convert all numbers to international E.164 format (e.g., +15551234567). Select your default region for numbers without a country code. Invalid numbers are flagged for review after import.\
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 **Duplicate Handling**
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4) (1).png>)
 
 | Import Option                                    | Action for New Contacts | Action for Existing Contacts       |
 | ------------------------------------------------ | ----------------------- | ---------------------------------- |
@@ -56,10 +56,10 @@ The import wizard guides you through 5 steps:
 | Allow duplicates (import all as new contacts)    | ✅ Added                 | ✅ Added again (creates duplicates) |
 
 **Assign to List** Assign all imported contacts to a list. You can select an existing list or type a new name. Contacts can belong to multiple lists (comma-separated).\
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (1).png>)
 
 **Clear Existing Contacts** Check this option to delete all existing contacts before importing. Useful for replacing your entire contact list.\
-![](<../.gitbook/assets/image (6).png>)
+![](<../.gitbook/assets/image (6) (1).png>)
 
 ***
 
