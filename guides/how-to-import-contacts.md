@@ -8,9 +8,7 @@ description: >-
 
 ### Video Tutorial
 
-Coming soon...
-
-
+{% embed url="https://iframe.mediadelivery.net/play/289332/b1a1debf-f5f4-4b55-99ee-731dafe7c675" %}
 
 ### Quick Overview
 
