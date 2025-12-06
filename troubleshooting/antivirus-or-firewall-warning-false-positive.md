@@ -11,9 +11,9 @@ QuickText uses VBA macros and runs small scripts in the background to send SMS. 
 Yes. I monitor QuickText on VirusTotal every day. Most major antivirus tools like **Kaspersky** and **Windows Defender** show it as clean. Sometimes a smaller antivirus will flag it. When that happens, I submit a false positive report to the vendor. In some cases, I don’t get a response, so the warning may stay active for a while.
 
 You can check today's scan here:\
-[https://www.virustotal.com/gui/file/daaf4fafbbc024849c76ec6e0ffbc7fdc348415e5aabe59e9233024b32715530](https://www.virustotal.com/gui/file/daaf4fafbbc024849c76ec6e0ffbc7fdc348415e5aabe59e9233024b32715530)
+[https://www.virustotal.com/gui/file/804cf0ddbce78d6730af290cee0576b50623900c06725ee1f96f82485ac0d9fd](https://www.virustotal.com/gui/file/804cf0ddbce78d6730af290cee0576b50623900c06725ee1f96f82485ac0d9fd)
 
-Last checked: December 05, 2025
+Last checked: December 06, 2025
 
 #### What should you do?
 
