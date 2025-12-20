@@ -1,4 +1,4 @@
-# Page
+# Excel cannot open QuickText.xlsm (File format or extension is not valid)
 
 ### Problem
 
@@ -23,7 +23,7 @@ Once that happens, Excel sees the file as corrupted and refuses to open it.
 1. Open your antivirus dashboard
 2. Check Quarantine or History
 3. Restore QuickText if it appears and mark it as allowed
-4. Add an exception for the QuickText folder
+4. Add an exception for the QuickText file
 5. Temporarily disable the antivirus
 6. Download a fresh copy of QuickText
 7. Open the file only after the exception is in place
