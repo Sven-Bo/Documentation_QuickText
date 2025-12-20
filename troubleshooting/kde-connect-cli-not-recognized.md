@@ -21,7 +21,7 @@ Windows Store apps use execution aliases that need to be enabled.
 3. Scroll down and find **KDE Connect**
 4. Ensure the toggle is **ON** (enabled)
 
-<figure><img src="/broken/files/KzWihqlfqMg4ioay1C57" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (19) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Step 2: Verify KDE Connect CLI File Exists
 
@@ -44,7 +44,7 @@ dir "%LOCALAPPDATA%\Microsoft\WindowsApps\kdeconnect-cli.exe"
 Ensure the WindowsApps folder is added to your system PATH.
 
 1. Press **Win + R**, type `sysdm.cpl`, and press **Enter**\
-   ![](/broken/files/ljeHgnc6aVNmNIuSmajF)
+   ![](<../.gitbook/assets/image (17) (1).png>)
 2. Click the **Advanced** tab
 3. Click the **Environment Variables** button
 4. Under **User variables for \<username>**, find and select **Path**
@@ -57,7 +57,7 @@ Ensure the WindowsApps folder is added to your system PATH.
 
 7. If it doesn't exist, click **New** and add the path
 8. Click **OK** on all dialogs to save changes\
-   ![](/broken/files/NrROllIkZzuxcxCMZAcV)
+   ![](<../.gitbook/assets/image (18) (1).png>)
 
 ### Step 4: Restart Your Computer
 
@@ -110,7 +110,7 @@ After installing the desktop version, you need to add it to your PATH:
     C:\Program Files\KDE Connect\bin
     ```
 8. Click **OK** on all dialogs to save changes\
-   ![](/broken/files/STWxkTyKhcyiMgUiEFG4)
+   ![](<../.gitbook/assets/image (2) (1) (2).png>)
 9. **Restart your computer** again
 
 #### Verify the Fix

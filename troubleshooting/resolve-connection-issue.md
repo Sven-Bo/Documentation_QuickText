@@ -82,7 +82,7 @@ KDE Connect sees your device, so both the phone and computer are on the same Wi-
 
 Now go back to Excel and click **Test Connection** to confirm everything is working.
 
-<figure><img src="/broken/files/844yDPFSJRIoetQPVPcW" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (2).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 

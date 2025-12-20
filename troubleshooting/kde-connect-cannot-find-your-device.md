@@ -19,7 +19,7 @@ A clean reinstall often fixes it.
 2. Type KDE Connect.
 3. Right click.
 4. Select Uninstall.\
-   ![](/broken/files/1w7ltDELzqefQI1sDsrw)
+   ![](<../.gitbook/assets/image (20).png>)
 
 #### On Android
 
