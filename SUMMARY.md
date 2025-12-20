@@ -42,7 +42,7 @@
 * ["KDE Connect is sending a large number of SMS messages" Popup](troubleshooting/kde-connect-is-sending-a-large-number-of-sms-messages-popup.md)
 * [Message gets split into multiple cells when pasting](troubleshooting/message-gets-split-into-multiple-cells-when-pasting.md)
 * [Windows Defender Blocking QuickText (ASR Rule)](troubleshooting/windows-defender-blocking-quicktext-asr-rule.md)
-* [Page](troubleshooting/page.md)
+* [Excel cannot open QuickText.xlsm (File format or extension is not valid)](troubleshooting/excel-cannot-open-quicktext.xlsm-file-format-or-extension-is-not-valid.md)
 * [Antivirus or Firewall Warning (False Positive)](troubleshooting/antivirus-or-firewall-warning-false-positive.md)
 * [Malwarebytes blocking QuickText](troubleshooting/malwarebytes-blocking-quicktext.md)
 * [KDE Connect CLI Not Recognized](troubleshooting/kde-connect-cli-not-recognized.md)
